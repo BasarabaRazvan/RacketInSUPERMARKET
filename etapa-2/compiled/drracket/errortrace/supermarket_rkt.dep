@@ -1,0 +1,1 @@
+("8.0" ta6le ("7002051e263bb7737670654bd3d6294b14fb42d3" . "b4b4b9b42ea5aa164495fd5c707d5816010fdc7f") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))
